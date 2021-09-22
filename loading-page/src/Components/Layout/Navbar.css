@@ -1,0 +1,36 @@
+.navbar-branch__icon {
+  width: 2em;
+  height: 2em;
+  border-radius: 50%;
+  background-color: red;
+}
+.branch-name {
+  font-size: 2em;
+  font-weight: 700;
+  color: var(--primary-color);
+}
+.navbar-links__faq {
+  color: black;
+  font-size: 1em;
+  font-weight: 700;
+  margin: 0 2em;
+}
+.navbar-user {
+    font-weight: 600;
+  display: flex;
+}
+.navbar-user__login {
+  padding: .8em 1.4em;
+  border-radius: 8px;
+  color: #fff;
+  border: none;
+  background-color: var(--primary-color);
+}
+.navbar-register {
+    margin-left: 2em;
+  padding: .8em 1.4em;
+  border-radius: 8px;
+  border: 2px solid var(--primary-color);
+  background-color: #fff;
+  color: var(--primary-color);
+}
